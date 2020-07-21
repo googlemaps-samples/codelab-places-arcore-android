@@ -2,7 +2,7 @@ Display nearby places in AR on Android
 ======================================
 
 ## Description
-Accompanying starter and solution code for the [Display nearby places in AR on Android codelabel][codelab].
+Accompanying starter and solution code for the [Display nearby places in AR on Android codelab][codelab].
 
 ## Requirements
 * Android Studio 3.6 or higher
