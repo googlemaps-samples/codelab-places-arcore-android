@@ -16,7 +16,6 @@ package com.google.codelabs.findnearbyplacesar.model
 
 import com.google.android.gms.maps.model.LatLng
 import com.google.ar.sceneform.math.Vector3
-import com.google.maps.android.ktx.sphericalHeading
 import kotlin.math.cos
 import kotlin.math.sin
 
