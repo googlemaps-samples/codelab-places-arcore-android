@@ -16,7 +16,7 @@ Accompanying starter and solution code for the [Display nearby places in AR on A
 To run the samples, you will need:
 
 - To [sign up with Google Maps Platform]
-- A Google Maps Platform [project] with the **PRODUCT** enabled
+- A Google Maps Platform [project] with the **Maps SDK for Android** enabled
 - An [API key] associated with the project above ... follow the [API key instructions] if you're new to the process
 - Android Studio 3.6 or higher
 - Development machine that supports OpenGL ES 3.0 or higher
@@ -44,9 +44,9 @@ You can also discuss this sample on our [Discord server].
 [arcore-emulator]: https://developers.google.com/ar/develop/java/emulator
 [codelab]: https://codelabs.developers.google.com/codelabs/location-places-arcore-android/index.html
 
-[PRODUCT]: https://developers.google.com/maps/documentation/PRODUCT
-[API key]: https://developers.google.com/maps/documentation/PRODUCT/get-api-key
-[API key instructions]: https://developers.google.com/maps/documentation/PRODUCT/config#step_3_add_your_api_key_to_the_project
+[android-sdk]: https://developers.google.com/maps/documentation/android-sdk
+[API key]: https://developers.google.com/maps/documentation/android-sdk/get-api-key
+[API key instructions]: https://developers.google.com/maps/documentation/android-sdk/config#step_3_add_your_api_key_to_the_project
 
 [code of conduct]: ?tab=coc-ov-file#readme
 [contributing guide]: CONTRIBUTING.md
@@ -56,7 +56,7 @@ You can also discuss this sample on our [Discord server].
 [file an issue]: https://github.com/googlemaps-samples/codelab-places-arcore-android/issues/new/choose
 [license]: LICENSE
 [pull request]: https://github.com/googlemaps-samples/codelab-places-arcore-android/compare
-[project]: https://developers.google.com/maps/documentation/PRODUCT/cloud-setup#enabling-apis
+[project]: https://developers.google.com/maps/documentation/android-sdk/cloud-setup#enabling-apis
 [Sign up with Google Maps Platform]: https://console.cloud.google.com/google/maps-apis/start
 [SLA]: https://cloud.google.com/maps-platform/terms/sla
 [Technical Support Services Guidelines]: https://cloud.google.com/maps-platform/terms/tssg
